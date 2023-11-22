@@ -1,0 +1,11 @@
+#define MOTOR_1_PIN_A 3
+#define MOTOR_1_PIN_B 5
+#define MOTOR_2_PIN_A 6
+#define MOTOR_2_PIN_B 9
+#define END_STOP_1_TOP_PIN 2
+#define END_STOP_1_BOT_PIN 4
+#define END_STOP_2_TOP_PIN 7
+#define END_STOP_2_BOT_PIN 8
+#define RAIN_SENSOR_PIN 10 
+#define SHIELD_CLOSE false
+#define SHIELD_OPEN true 
